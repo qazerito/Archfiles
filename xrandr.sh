@@ -1,1 +1,1 @@
-xrandr --output HDMI-0 --left-of DP-4
+xrandr --output HDMI-0 --left-of DP-4 
