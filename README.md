@@ -18,4 +18,4 @@ Gaming Apps: steam, wine, proton#
 Shell: zsh
 Terminal: kitty // xfce4dt
 
-
+ 
