@@ -5,14 +5,14 @@ Grub: quiet loglevel=0 audit=0 vga=current rd.systemd.show_status=auto rd.udev.l
 
 File Manager: nautilus
 
-Text Editor CLI: nano
+Text Editor: nano
 
 Code Editor: code
 
 Browser: firefox
 
-Shell: zsh
+Shell: fish
 
-Terminal: xfce4-terminal
+Terminal: alacritty
 
  
